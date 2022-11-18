@@ -1,0 +1,9 @@
+*.png
+*.tar.gz
+*.csv
+.ipynb*
+__pycache__/
+*.pyc
+*.txt
+out*
+models_large/

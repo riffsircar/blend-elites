@@ -1,0 +1,74 @@
+{
+	"smb": {
+		"solid": ["X","<",">","[","]"],
+		"breakable": ["S"],
+		"hazard": [],
+		"enemies": ["E"],
+		"collectable": ["o"],
+		"solid_collectable": ["Q","?"],
+		"weapon": [],
+		"moving": [],
+		"door": [],
+		"climbable": []
+	},
+	"ki": {
+		"solid": ["#","T"],
+		"breakable": [],
+		"hazard": ["H"],
+		"enemies": [],
+		"collectable": [],
+		"solid_collectable": [],
+		"weapon": [],
+		"moving": ["M"],
+		"door": ["D"],
+		"climbable": []
+	},
+	"mm": {
+		"solid": ["#"],
+		"breakable": ["B"],
+		"hazard": ["H","C"],
+		"enemies": ["t"],
+		"collectable": ["+","L","U","W","l","w"],
+		"solid_collectable": [],
+		"weapon": ["*"],
+		"moving": ["M"],
+		"door": ["D"],
+		"climbable": ["|"]
+	},
+	"met": {
+		"solid": ["#"],
+		"breakable": ["B"],
+		"hazard": ["^"],
+		"enemies": ["E"],
+		"collectable": [],
+		"solid_collectable": [],
+		"weapon": ["+","*"],
+		"moving": ["M"],
+		"door": ["D"],
+		"climbable": ["|"]
+	},
+	"cv": {
+		"solid": ["X"],
+		"breakable": ["B"],
+		"hazard": ["V"],
+		"enemies": ["E"],
+		"collectable": ["0","1","4","5","7","F","G","K","R","S","U"],
+		"solid_collectable": [],
+		"weapon": ["2",">","A","H","O","#"],
+		"moving": ["M"],
+		"door": ["D"],
+		"climbable": ["|"]
+	},
+	"ng": {
+		"solid": ["X"],
+		"breakable": ["S"],
+		"hazard": [],
+		"enemies": ["B","D","C","K","E"],
+		"collectable": ["+",")","R","T","%","1"],
+		"solid_collectable": [],
+		"weapon": ["*","J","F","W","A"],
+		"moving": [],
+		"door": [],
+		"climbable": ["L"]
+	}
+}
